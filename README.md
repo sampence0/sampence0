@@ -6,7 +6,7 @@
   <a href="mailto:samuelpence0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.codecademy.com/pencesam0">
+  <a href="https://www.codecademy.com/profiles/pencesam0">
     <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="Codecademy" />
   </a>
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda" />
