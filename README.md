@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampence0&label=Profile%20views&color=0e75b6&style=flat" alt="sampence0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampence0" alt="sampence0" /></a> </p>
 
 - 🔭 I’m currently working on ... **S&P 500 Sentiment Analysis using Natural Language Processing(NLP)**
 
@@ -33,7 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampence0&show_icons=true&locale=en&layout=compact" alt="sampence0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampence0&show_icons=true&locale=en" alt="sampence0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampence0&" alt="sampence0" /></p>
 
 ![Resume](https://github.com/sampence0/sampence0/blob/main/assets/resume.png)
