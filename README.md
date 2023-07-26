@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sampence0&label=Profile%20views&color=0e75b6&style=flat" alt="sampence0" /> 
-  <a href="mailto:sampence@indiana.edu">
+  <a href="mailto:samuelpence0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.codecademy.com/sampence0">
