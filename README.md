@@ -6,8 +6,11 @@
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samuelpence0@gmail.com />
+  <a href="mailto:samuelpence0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
 
 - 🔭 I’m currently working on ... **S&P 500 Sentiment Analysis using Natural Language Processing(NLP)**
 
