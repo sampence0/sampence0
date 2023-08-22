@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sam Pence</h1>
 <h3 align="center">An undergraduate student at Indiana University</h3>
 
+<div align="center">
+  <strong>"A ship in port is safe, but that's not what ships are built for." - Grace Hopper</strong>
+</div>
+
+---
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sampence0&label=Profile%20views&color=0e75b6&style=flat" alt="sampence0" /> 
   <a href="mailto:samuelpence0@gmail.com">
