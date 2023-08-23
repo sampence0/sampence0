@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam Pence</h1>
-<h3 align="center">An undergraduate student at Indiana University</h3>
+<h5 align="center">A fourth-year undergraduate student at Indiana University, Bloomington. I am pursuing a B.A., co-majoring in Economics and Political Science, which has provided me with an endless passion for data science and problem solving. After understanding the wide range of applications for statistical analysis, I have been driven to understand the practicalities and use-cases of many programming languages, including (but not limited to) C++, Python, and R. For now, my professional portfolio can be found in the "repositories" section of my github profile, however, a functional static website will be the host for my portfolio by graduation in May, 2024.</h5>
 
-<div align="center">
+<h2 align="center">
   <strong>"A ship in port is safe, but that's not what ships are built for." - Grace Hopper</strong>
-</div>
+</h2>
 
 ---
 
@@ -17,7 +17,12 @@
   </a>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
+
 
 ---
 
