@@ -5,8 +5,6 @@
   <strong>"A ship in port is safe, but that's not what ships are built for." - Grace Hopper</strong>
 </div>
 
----
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sampence0&label=Profile%20views&color=0e75b6&style=flat" alt="sampence0" /> 
   <a href="mailto:samuelpence0@gmail.com">
@@ -18,6 +16,8 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
+
+---
 
 - 🔭 I’m currently working on ... **S&P 500 Sentiment Analysis using Natural Language Processing(NLP)**
 
@@ -34,6 +34,8 @@
 - 📫 How to reach me ... **sampence@indiana.edu**
 
 - ⚡ Fun fact ... **I can bear the reality of being a Colts fan.**
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
