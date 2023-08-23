@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam Pence</h1>
-<h5 align="center">A fourth-year undergraduate student at Indiana University, Bloomington. I am pursuing a B.A., co-majoring in Economics and Political Science, which has provided me with an endless passion for data science and problem solving. After understanding the wide range of applications for statistical analysis, I have been driven to understand the practicalities and use-cases of many programming languages, including (but not limited to) C++, Python, and R. For now, my professional portfolio can be found in the "repositories" section of my github profile, however, a functional static website will be the host for my portfolio by graduation in May, 2024.</h5>
 
-<h2 align="center">
-  <strong>"A ship in port is safe, but that's not what ships are built for." - Grace Hopper</strong>
-</h2>
+<h5 align="center">A fourth-year undergraduate student at Indiana University, Bloomington. I am pursuing a B.A., co-majoring in Economics and Political Science, which has provided me with an endless passion for data science and problem solving. After understanding the wide range of applications for statistical analysis, I have been driven to understand the practicalities and use-cases of many programming languages, including (but not limited to) C++, Python, and R. For now, my professional portfolio can be found in the "repositories" section of my github profile, however, a functional static website will be the host for my portfolio by graduation in May, 2024.</h5>
 
 ---
 
@@ -55,7 +52,12 @@
 
 ---
 
-![Resume](https://github.com/sampence0/sampence0/blob/main/assets/resume.png)
+<h2 align="center"><strong>"A ship in port is safe, but that's not what ships are built for." - Grace Hopper</strong></h2>
+
+
+<div align="center">
+  <img src="https://github.com/sampence0/sampence0/blob/main/assets/resume.png" alt="Resume" />
+</div>
 
 
 
