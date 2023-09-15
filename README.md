@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/sampence0/sampence0/blob/main/assets/resume.png" alt="Resume" />
+  <img src="https://github.com/sampence0/sampence0/blob/main/assets/resume.png" alt="resume" />
 </div>
 
 <h2 align="center"><strong>"A ship in port is safe, but that's not what ships are built for." - Grace Hopper</strong></h2>
