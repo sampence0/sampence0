@@ -21,7 +21,7 @@
 
 ---
 
-- 🔭 I’m currently working on ... **S&P 500 Sentiment Analysis using Natural Language Processing(NLP)**
+- 🔭 I’m currently working on ... **S&P 500 Sentiment Analysis using NLP**
 
 - 🌱 I’m currently learning ... **C++, TensorFlow, Scikit-Learn, Keras**
 
