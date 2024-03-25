@@ -33,7 +33,7 @@
 
 - 💬 Ask me about ... **Computational Econ.**
 
-- 📫 How to reach me ... **sampence@indiana.edu**
+- 📫 How to reach me ... **sampence@iu.edu**
 
 - ⚡ Fun fact ... **I can bear the reality of being a Colts fan.**
 
