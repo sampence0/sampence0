@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam Pence</h1>
 
-<h5 align="center">A fourth-year undergraduate student at Indiana University, Bloomington. I am pursuing a B.A., co-majoring in Economics and Political Science, which has provided me with an endless passion for data science and problem solving. After understanding the wide range of applications for statistical analysis, I have been driven to understand the practicalities and use-cases of many programming languages, including Python, R, and C++. For now, my professional portfolio can be found in the "repositories" section of my github profile, however, a functional static website will be the host for my portfolio by graduation in May, 2024.</h5>
+<h5 align="center"> Owner @ Pence Operations!! Indiana University Graduating Class of 2024, B.A. in Economics and Political Science. </h5>
 
 ---
 
@@ -25,17 +25,11 @@
 
 - 🌱 I’m currently learning ... **C++, TensorFlow, Scikit-Learn, Keras**
 
-- 👯 I’m looking to collaborate on ... **Python Data Science/ML projects**
-
-- 🤝 I’m looking for help with ... [Loan Repayment Model (Binary Classification ML)](https://github.com/sampence0/loan-repayment-model)
-
 - 👨‍💻 All of my projects are available at ... [https://github.com/sampence0](https://github.com/sampence0)
 
-- 💬 Ask me about ... **Computational Econ.**
+- 💬 Ask me about ... **Computational Economics.**
 
-- 📫 How to reach me ... **sampence@iu.edu**
-
-- ⚡ Fun fact ... **I can bear the reality of being a Colts fan.**
+- 📫 How to reach me ... **samuel@penceoperations.com**
 
 ---
 
